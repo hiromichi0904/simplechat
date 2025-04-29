@@ -2,6 +2,8 @@
 
 Amazon Bedrock を使用したチャットボットアプリケーションで、Amazon Cognito による認証機能を備えています。
 
+Homework ./lmabda/hw_index.py
+
 ## 機能
 
 - Amazon Bedrock の LLM モデル（Nova Lite または micro）を使用したチャット機能
